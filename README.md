@@ -13,12 +13,12 @@ Code for modeling cellular dynamics, proliferation, migration, and chemotactic e
 
 ## Install
 
-The common way to install Salmon is through
+The common way to install Artistoo is through
 [Github](https://artistoo.net/manual/getting-started.html)
 * x86_64
 
 ## Usage
 
-Setup artistoo and generate html or javascript files corresponding to the simulation needed.
+Setup Artistoo and generate html or javascript files corresponding to the simulation needed.
 
 <img src="https://github.com/hasanwraeth/RNAseq/blob/main/urea.tiff" width="300" height="100">
