@@ -21,4 +21,6 @@ The common way to install Artistoo is through
 
 Setup Artistoo and generate html or javascript files corresponding to the simulation needed.
 
-<img src="https://github.com/hasanwraeth/CPM/blob/main/ActModel-t710.png" width="200" height="200">
+<img src="https://github.com/hasanwraeth/CPM/blob/main/ActModel-t587.png" width="500" height="500">
+<img src="https://github.com/hasanwraeth/CPM/blob/main/ActModel-t710.png" width="500" height="500">
+<img src="https://github.com/hasanwraeth/CPM/blob/main/ActModel-t818.png" width="500" height="500">
