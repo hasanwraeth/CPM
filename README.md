@@ -21,4 +21,4 @@ The common way to install Artistoo is through
 
 Setup Artistoo and generate html or javascript files corresponding to the simulation needed.
 
-<img src="https://github.com/hasanwraeth/RNAseq/blob/main/urea.tiff" width="300" height="100">
+<img src="https://github.com/hasanwraeth/CPM/blob/main/Sim1.html" width="300" height="100">
