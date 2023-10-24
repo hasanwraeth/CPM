@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/status-alpha-red)
 ![DOI](https://img.shields.io/badge/DOI-in__progress-blue)
-![Alt Text](https://github.com/hasanwraeth/CPM/blob/main/SmallFullColourGIF.gif)
+
 
 Cellular Potts Model using Artistoo
 
