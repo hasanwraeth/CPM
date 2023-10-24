@@ -1,7 +1,10 @@
 # CPM
-Cellular Potts Model using Artistoo
 
 ![Status](https://img.shields.io/badge/status-alpha-red)
+![DOI](https://img.shields.io/badge/DOI-in__progress-blue)
+
+Cellular Potts Model using Artistoo
+
 
 Latest Release:
 * Github:![Github Release](https://img.shields.io/badge/release-v1-blue)
