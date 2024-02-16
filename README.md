@@ -27,7 +27,7 @@ Setup Artistoo and generate html or javascript files corresponding to the simula
 
 Single cell actin based simulation       
 :-------------------------:
-![ACT](https://github.com/hasanwraeth/CPM/blob/main/Act.gif)
+![](https://github.com/hasanwraeth/CPM/blob/main/Act.gif)
 
 <img src="https://github.com/hasanwraeth/CPM/blob/main/ActModel-t587.png" width="500" height="500">
 <img src="https://github.com/hasanwraeth/CPM/blob/main/ActModel-t710.png" width="500" height="500">
