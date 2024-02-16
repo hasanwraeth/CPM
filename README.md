@@ -25,6 +25,8 @@ The common way to install Artistoo is through
 
 Setup Artistoo and generate html or javascript files corresponding to the simulation needed.
 
+Single cell actin based simulation       
+:-------------------------:
 ![ACT](https://github.com/hasanwraeth/CPM/blob/main/Act.gif)
 
 <img src="https://github.com/hasanwraeth/CPM/blob/main/ActModel-t587.png" width="500" height="500">
