@@ -34,5 +34,3 @@ Single cell actin based simulation
 ![](https://github.com/hasanwraeth/CPM/blob/main/ActModel-t587.png) | ![](https://github.com/hasanwraeth/CPM/blob/main/ActModel-t710.png) | ![](https://github.com/hasanwraeth/CPM/blob/main/ActModel-t818.png) | 
 
 <img src="https://github.com/hasanwraeth/CPM/blob/main/ActModel-t587.png" width="500" height="500">
-<img src="https://github.com/hasanwraeth/CPM/blob/main/ActModel-t710.png" width="500" height="500">
-<img src="https://github.com/hasanwraeth/CPM/blob/main/ActModel-t818.png" width="500" height="500">
